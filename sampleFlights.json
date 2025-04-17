@@ -1,0 +1,430 @@
+[
+  {
+    "flightNumber": "PK101",
+    "airline": "PIA",
+    "origin": "Karachi",
+    "destination": "Lahore",
+    "departureDate": "2024-03-20T08:00:00Z",
+    "arrivalDate": "2024-03-20T10:00:00Z",
+    "duration": "2:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 25000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 25000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 15000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 15000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 15000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 15000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK102",
+    "airline": "AirSial",
+    "origin": "Islamabad",
+    "destination": "Karachi",
+    "departureDate": "2024-03-20T09:00:00Z",
+    "arrivalDate": "2024-03-20T11:30:00Z",
+    "duration": "2:30",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 28000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 28000, "isAvailable": true },
+      { "number": "1C", "class": "Business", "price": 28000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 18000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 18000, "isAvailable": true },
+      { "number": "2C", "class": "Economy", "price": 18000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 18000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 18000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK103",
+    "airline": "SereneAir",
+    "origin": "Lahore",
+    "destination": "Peshawar",
+    "departureDate": "2024-03-20T10:00:00Z",
+    "arrivalDate": "2024-03-20T11:30:00Z",
+    "duration": "1:30",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 20000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 20000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 12000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 12000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK104",
+    "airline": "PIA",
+    "origin": "Quetta",
+    "destination": "Islamabad",
+    "departureDate": "2024-03-20T11:00:00Z",
+    "arrivalDate": "2024-03-20T13:00:00Z",
+    "duration": "2:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 23000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 23000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 14000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 14000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 14000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK105",
+    "airline": "AirSial",
+    "origin": "Multan",
+    "destination": "Karachi",
+    "departureDate": "2024-03-20T12:00:00Z",
+    "arrivalDate": "2024-03-20T14:00:00Z",
+    "duration": "2:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 22000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 22000, "isAvailable": true },
+      { "number": "1C", "class": "Business", "price": 22000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 13000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 13000, "isAvailable": true },
+      { "number": "2C", "class": "Economy", "price": 13000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK106",
+    "airline": "SereneAir",
+    "origin": "Karachi",
+    "destination": "Islamabad",
+    "departureDate": "2024-03-20T13:00:00Z",
+    "arrivalDate": "2024-03-20T15:30:00Z",
+    "duration": "2:30",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 27000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 27000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 17000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 17000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 17000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 17000, "isAvailable": true },
+      { "number": "4A", "class": "Economy", "price": 17000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK107",
+    "airline": "PIA",
+    "origin": "Lahore",
+    "destination": "Karachi",
+    "departureDate": "2024-03-20T14:00:00Z",
+    "arrivalDate": "2024-03-20T16:00:00Z",
+    "duration": "2:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 26000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 26000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 16000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 16000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 16000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 16000, "isAvailable": true },
+      { "number": "4A", "class": "Economy", "price": 16000, "isAvailable": true },
+      { "number": "4B", "class": "Economy", "price": 16000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK108",
+    "airline": "AirSial",
+    "origin": "Faisalabad",
+    "destination": "Karachi",
+    "departureDate": "2024-03-20T15:00:00Z",
+    "arrivalDate": "2024-03-20T17:00:00Z",
+    "duration": "2:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 24000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 24000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 14000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 14000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 14000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK109",
+    "airline": "SereneAir",
+    "origin": "Sialkot",
+    "destination": "Karachi",
+    "departureDate": "2024-03-20T16:00:00Z",
+    "arrivalDate": "2024-03-20T18:30:00Z",
+    "duration": "2:30",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 25000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 25000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 15000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 15000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 15000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 15000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK110",
+    "airline": "PIA",
+    "origin": "Sukkur",
+    "destination": "Islamabad",
+    "departureDate": "2024-03-20T17:00:00Z",
+    "arrivalDate": "2024-03-20T19:00:00Z",
+    "duration": "2:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 23000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 23000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 13000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 13000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 13000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 13000, "isAvailable": true },
+      { "number": "4A", "class": "Economy", "price": 13000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK111",
+    "airline": "PIA",
+    "origin": "Karachi",
+    "destination": "Lahore",
+    "departureDate": "2024-03-21T08:00:00Z",
+    "arrivalDate": "2024-03-21T10:00:00Z",
+    "duration": "2:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 25000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 25000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 15000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 15000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 15000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 15000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK112",
+    "airline": "AirSial",
+    "origin": "Islamabad",
+    "destination": "Karachi",
+    "departureDate": "2024-03-21T09:00:00Z",
+    "arrivalDate": "2024-03-21T11:30:00Z",
+    "duration": "2:30",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 28000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 28000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 18000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 18000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 18000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK113",
+    "airline": "SereneAir",
+    "origin": "Lahore",
+    "destination": "Karachi",
+    "departureDate": "2024-03-21T10:00:00Z",
+    "arrivalDate": "2024-03-21T12:00:00Z",
+    "duration": "2:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 26000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 26000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 16000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 16000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 16000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 16000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK114",
+    "airline": "PIA",
+    "origin": "Islamabad",
+    "destination": "Quetta",
+    "departureDate": "2024-03-21T11:00:00Z",
+    "arrivalDate": "2024-03-21T13:00:00Z",
+    "duration": "2:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 24000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 24000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 14000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 14000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 14000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK115",
+    "airline": "AirSial",
+    "origin": "Karachi",
+    "destination": "Multan",
+    "departureDate": "2024-03-21T12:00:00Z",
+    "arrivalDate": "2024-03-21T14:00:00Z",
+    "duration": "2:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 22000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 22000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 12000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 12000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 12000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 12000, "isAvailable": true },
+      { "number": "4A", "class": "Economy", "price": 12000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK116",
+    "airline": "SereneAir",
+    "origin": "Karachi",
+    "destination": "Faisalabad",
+    "departureDate": "2024-03-22T08:00:00Z",
+    "arrivalDate": "2024-03-22T10:00:00Z",
+    "duration": "2:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 23000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 23000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 13000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 13000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 13000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 13000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK117",
+    "airline": "PIA",
+    "origin": "Lahore",
+    "destination": "Sukkur",
+    "departureDate": "2024-03-22T09:00:00Z",
+    "arrivalDate": "2024-03-22T10:30:00Z",
+    "duration": "1:30",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 21000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 21000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 11000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 11000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 11000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK118",
+    "airline": "AirSial",
+    "origin": "Islamabad",
+    "destination": "Sialkot",
+    "departureDate": "2024-03-22T10:00:00Z",
+    "arrivalDate": "2024-03-22T11:00:00Z",
+    "duration": "1:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 18000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 18000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 8000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 8000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 8000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 8000, "isAvailable": true },
+      { "number": "4A", "class": "Economy", "price": 8000, "isAvailable": true },
+      { "number": "4B", "class": "Economy", "price": 8000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK119",
+    "airline": "SereneAir",
+    "origin": "Karachi",
+    "destination": "Peshawar",
+    "departureDate": "2024-03-22T11:00:00Z",
+    "arrivalDate": "2024-03-22T13:30:00Z",
+    "duration": "2:30",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 27000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 27000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 17000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 17000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 17000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK120",
+    "airline": "PIA",
+    "origin": "Lahore",
+    "destination": "Quetta",
+    "departureDate": "2024-03-22T12:00:00Z",
+    "arrivalDate": "2024-03-22T14:00:00Z",
+    "duration": "2:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 24000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 24000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 14000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 14000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 14000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 14000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK121",
+    "airline": "AirSial",
+    "origin": "Karachi",
+    "destination": "Islamabad",
+    "departureDate": "2024-03-23T08:00:00Z",
+    "arrivalDate": "2024-03-23T10:30:00Z",
+    "duration": "2:30",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 28000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 28000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 18000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 18000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 18000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 18000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK122",
+    "airline": "SereneAir",
+    "origin": "Lahore",
+    "destination": "Karachi",
+    "departureDate": "2024-03-23T09:00:00Z",
+    "arrivalDate": "2024-03-23T11:00:00Z",
+    "duration": "2:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 26000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 26000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 16000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 16000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 16000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK123",
+    "airline": "PIA",
+    "origin": "Islamabad",
+    "destination": "Multan",
+    "departureDate": "2024-03-23T10:00:00Z",
+    "arrivalDate": "2024-03-23T11:30:00Z",
+    "duration": "1:30",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 20000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 20000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 10000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 10000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 10000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 10000, "isAvailable": true },
+      { "number": "4A", "class": "Economy", "price": 10000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK124",
+    "airline": "AirSial",
+    "origin": "Peshawar",
+    "destination": "Karachi",
+    "departureDate": "2024-03-23T11:00:00Z",
+    "arrivalDate": "2024-03-23T13:30:00Z",
+    "duration": "2:30",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 27000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 27000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 17000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 17000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 17000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 17000, "isAvailable": true }
+    ]
+  },
+  {
+    "flightNumber": "PK125",
+    "airline": "SereneAir",
+    "origin": "Quetta",
+    "destination": "Lahore",
+    "departureDate": "2024-03-23T12:00:00Z",
+    "arrivalDate": "2024-03-23T14:00:00Z",
+    "duration": "2:00",
+    "seats": [
+      { "number": "1A", "class": "Business", "price": 25000, "isAvailable": true },
+      { "number": "1B", "class": "Business", "price": 25000, "isAvailable": true },
+      { "number": "2A", "class": "Economy", "price": 15000, "isAvailable": true },
+      { "number": "2B", "class": "Economy", "price": 15000, "isAvailable": true },
+      { "number": "3A", "class": "Economy", "price": 15000, "isAvailable": true },
+      { "number": "3B", "class": "Economy", "price": 15000, "isAvailable": true },
+      { "number": "4A", "class": "Economy", "price": 15000, "isAvailable": true },
+      { "number": "4B", "class": "Economy", "price": 15000, "isAvailable": true }
+    ]
+  }
+]
